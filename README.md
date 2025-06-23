@@ -56,7 +56,6 @@ const job = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=trevorjob&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trevorjob&theme=tokyonight&hide_border=true" height="150" alt="streak graph"  />
 </div>
 
 <div align="center">
